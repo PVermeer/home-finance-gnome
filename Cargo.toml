@@ -1,0 +1,7 @@
+[package]
+name = "home-finance-gnome"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+libadwaita = "0.7.2"
